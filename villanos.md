@@ -2,3 +2,4 @@
 
 * Joker
 * Red School
+* Capitán America
