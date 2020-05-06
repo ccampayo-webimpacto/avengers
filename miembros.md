@@ -18,3 +18,6 @@
 * Vision
 * Wasp
 * Antman
+* Abraham 
+* David
+* Nico
